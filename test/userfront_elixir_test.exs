@@ -1,8 +1,8 @@
-defmodule UserfrontElixirTest do
+defmodule LearnElixirTest do
   use ExUnit.Case
-  doctest UserfrontElixir
+  doctest LearnElixir
 
   test "greets the world" do
-    assert UserfrontElixir.hello() == :world
+    assert LearnElixir.hello() == :world
   end
 end
