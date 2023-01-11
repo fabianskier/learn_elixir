@@ -1,4 +1,4 @@
-defmodule UserfrontElixir do
+defmodule LearnElixir do
   @moduledoc """
   Documentation for `LearnElixir`.
   """
