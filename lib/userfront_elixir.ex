@@ -1,6 +1,6 @@
-defmodule UserfrontElixir do
+defmodule LearnElixir do
   @moduledoc """
-  Documentation for `UserfrontElixir`.
+  Documentation for `LearnElixir`.
   """
 
   @doc """
@@ -8,7 +8,7 @@ defmodule UserfrontElixir do
 
   ## Examples
 
-      iex> UserfrontElixir.hello()
+      iex> LearnElixir.hello()
       :world
 
   """
